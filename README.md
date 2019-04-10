@@ -1,6 +1,6 @@
 # currency_converter
 
-A simple, cool currency converter
+A simple, cool currency converter built with flutter
 
 ## Getting Started
 
